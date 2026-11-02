@@ -1,3 +1,4 @@
-[submodule "generator/headers"]
+[submodule "generator/Vulkan-Headers"]
 	path = generator/headers
-	url = https://github.com/KhronosGroup/Vulkan-Headers.git
+	url = https://github.com/KhronosGroup/Vulkan-Headers
+    
